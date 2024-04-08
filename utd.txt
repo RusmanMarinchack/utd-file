@@ -1,0 +1,67 @@
+Hubstaff - https://app.hubstaff.com/dashboard/113696/me
+webmail - https://webmail.online/m/1/#INBOX
+login - ruslan.m@utdweb.team
+password - 24ZDd7B9ma
+
+trello - https://trello.com/b/nXdAipMB/kovalsky
+shopify - https://admin.shopify.com/store/d858e7-4/themes
+Shopify Partners learning
+Maill - ruslan.m@utdweb.team
+password - tecken19098
+
+Trello
+login - ruslan.m@utdweb.team
+password - tecken190
+
+Jira
+login - ruslan.m@utdweb.team
+password - tecken19098
+
+Gmail UTD
+ruslan.marynchak.utd@gmail.com
+ruslan00798
+
+Doca:
+Настройки для секції - https://shopify.dev/docs/themes/architecture/settings/input-settings#collection
+Shopify cli - https://shopify.dev/docs/themes/getting-started/create, https://shopify.dev/docs/themes/tools/cli/commands#pull
+
+https://shopify.dev/docs/themes/architecture/sections/section-schema#presets
+
+Object - https://shopify.dev/docs/api/liquid/objects/collection
+
+Документація для запету на сторінку для перезагрузки.
+https://shopify.dev/docs/themes/architecture/templates#render-an-alternate-template
+https://shopify.dev/docs/api/ajax/reference/cart
+https://shopify.dev/docs/api/section-rendering
+https://shopify.dev/docs/api/ajax/reference/predictive-search
+https://shopify.dev/docs/themes/navigation-search/search/predictive-search
+
+===================
+token gitlab | name - promo-key | token - glpat-Xxg4bFcaykXYUkHVBZud
+
+npm run dev - adastra dev --store=dev-gain-theme -t=
+
+git clone https://<token_name>:<token>@git.some-server.com/group/repo/repo-name.git
+
+Create theme extesions 
+npm init @shopify/app@latest
+npm run shopify app generate extension
+npm create vite@latest test-project -- --template vanilla 
+
+Two-Factor Authentication Backup Codes
+Workspace: Unknown Workspace - https://the-utd.slack.com/
+Email: undefined
+
+Slak code
+ruslan.m@utdweb.team
+tecken19098
+314976392
+751733506
+844290776
+717767856
+429399384
+648273931
+860161293
+641413920
+237464988
+719475871
